@@ -1,7 +1,7 @@
 /*
  * Klaus Traubner 218009496
  * 7 April 2022
- * FoodDistributor.java
+ * FoodDistributorFactory.java
  * FoodDistributor factory
  * */
 
