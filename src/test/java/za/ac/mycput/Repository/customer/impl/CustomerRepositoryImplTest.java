@@ -1,7 +1,7 @@
 /* Customer.java
  Entity for the Customer
  Author: Marco Mulondayi Tshimanga (219049505)
- Date: 07 April 2022
+ Date: 08 April 2022
 */
 
 package za.ac.mycput.Repository.customer.impl;
